@@ -1,0 +1,26 @@
+C:\Users\p.coudert\source\repos\aquarium\aquarium\bin\Debug\netcoreapp3.1\Csharquarium.exe
+C:\Users\p.coudert\source\repos\aquarium\aquarium\bin\Debug\netcoreapp3.1\Csharquarium.deps.json
+C:\Users\p.coudert\source\repos\aquarium\aquarium\bin\Debug\netcoreapp3.1\Csharquarium.runtimeconfig.json
+C:\Users\p.coudert\source\repos\aquarium\aquarium\bin\Debug\netcoreapp3.1\Csharquarium.runtimeconfig.dev.json
+C:\Users\p.coudert\source\repos\aquarium\aquarium\bin\Debug\netcoreapp3.1\Csharquarium.dll
+C:\Users\p.coudert\source\repos\aquarium\aquarium\bin\Debug\netcoreapp3.1\Csharquarium.pdb
+C:\Users\p.coudert\source\repos\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.csprojAssemblyReference.cache
+C:\Users\p.coudert\source\repos\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.AssemblyInfoInputs.cache
+C:\Users\p.coudert\source\repos\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.AssemblyInfo.cs
+C:\Users\p.coudert\source\repos\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.csproj.CoreCompileInputs.cache
+C:\Users\p.coudert\source\repos\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.dll
+C:\Users\p.coudert\source\repos\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.pdb
+C:\Users\p.coudert\source\repos\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.genruntimeconfig.cache
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\bin\Debug\netcoreapp3.1\Csharquarium.exe
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\bin\Debug\netcoreapp3.1\Csharquarium.deps.json
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\bin\Debug\netcoreapp3.1\Csharquarium.runtimeconfig.json
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\bin\Debug\netcoreapp3.1\Csharquarium.runtimeconfig.dev.json
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\bin\Debug\netcoreapp3.1\Csharquarium.dll
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\bin\Debug\netcoreapp3.1\Csharquarium.pdb
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.csprojAssemblyReference.cache
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.AssemblyInfo.cs
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.dll
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.pdb
+C:\Users\pauli\OneDrive - Interface3\Orienté objet C#\240920\aquarium part2\aquarium\aquarium\obj\Debug\netcoreapp3.1\Csharquarium.genruntimeconfig.cache
